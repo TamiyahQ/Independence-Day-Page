@@ -1,0 +1,26 @@
+.container-fluid{
+  color: rgba(77, 77, 77, 1);
+  background-color: rgb(13, 61, 21);
+}
+
+.image_main{
+  border: 5px black solid;
+  width: 350px;
+  border-radius: 10px;
+}
+
+.image2{
+  border: 5px rgb(255, 255, 255) solid;
+  width: 250px;
+  border-radius: 20px;
+}
+
+.image3{
+  border: 5px rgb(13, 61, 21) solid;
+  width: 250px;
+  border-radius: 20px;
+}
+
+.herosec{
+  font-size:60px;
+}
